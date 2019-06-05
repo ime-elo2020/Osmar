@@ -1,0 +1,12 @@
+main.cpp:56:6:void init_i2c()	32	static
+main.cpp:81:6:void i2c_start()	8	static
+main.cpp:95:6:void i2c_stop()	8	static
+main.cpp:103:6:void i2c_address_direction(uint8_t, uint8_t)	16	static
+main.cpp:122:10:void i2c_transmit(uint8_t)	16	static
+main.cpp:132:13:uint8_t i2c_receive_ack()	8	static
+main.cpp:144:13:uint8_t i2c_receive_nack()	8	static
+main.cpp:156:10:void i2c_write(uint8_t, uint8_t, bool)	16	static
+main.cpp:166:10:void i2c_read(uint8_t, uint8_t*)	16	static
+main.cpp:174:5:int main()	16	static
+main.cpp:228:17:void EVAL_AUDIO_TransferComplete_CallBack(uint32_t, uint32_t)	16	static
+main.cpp:237:21:uint16_t EVAL_AUDIO_GetSampleCallBack()	4	static
